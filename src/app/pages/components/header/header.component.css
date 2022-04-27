@@ -1,0 +1,19 @@
+mat-toolbar {
+  background-color: rgb(208, 165, 248);
+}
+
+h1 {
+  font-size: 30px;
+  color: white;
+}
+
+.options {
+  margin: 100px;
+}
+
+button {
+  margin-left: 20px;
+  border: none;
+  font-size: 20px;
+  background-color: rgb(208, 165, 248); 
+}
